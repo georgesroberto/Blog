@@ -1,5 +1,5 @@
 ## Web Preview 
-<p align="center"><a href="#" target="_blank"><img src="./public/Preview.png" width="100" alt="Web Prievew"></a></p>
+<p align="center"><a href="#" target="_blank"><img src="./public/Preview.png" width="" alt="Web Prievew" stretch></a></p>
 
 ## About Blog
 
@@ -8,6 +8,8 @@
 - Though a bit rusty, I am still coming at it
 
 ## App Installation Proceudre
+
+Follow this sim[le steps for installation:
     <ol>
         <li>Access my github blog repository page, <a href="https://github.com/georgesroberto/Blog">https://github.com/georgesroberto/Blog</a>.</li>
         <li>Fork my repository</li>
