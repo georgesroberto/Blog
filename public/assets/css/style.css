@@ -396,6 +396,14 @@ button {
      flex-wrap: wrap;
 }
 
+#he_img {
+     
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     height: auto;
+}
+
 
 /** blog_main section **/
 .blog_main {margin-top: 85px;}

@@ -58,9 +58,6 @@ line-height: 25px;}
 .banner_main {
     padding: 30px 0 90px 0;
 }
-.he_img {
-    height: 496px;
-}
 .Testimonial_box i::after {content: inherit;}
 .padding_bottom1 {padding-bottom: 30px;}
 .padding_bottom2 {padding-bottom: 30px;}
@@ -134,9 +131,7 @@ ul.padding_left2 li img {padding: 0px 10px 0px 19px;}
     }
     ul.withi_color {padding-left: 4px;}
 .padding_bottom2 {padding-bottom: 30px;}
-    .he_img {
-   height: 600px;
-}
+
 .Testimonial_box i::after {content: inherit;}
 
 .padding_top3 {padding-top: 20px;}

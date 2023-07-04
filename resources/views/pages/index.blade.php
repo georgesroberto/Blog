@@ -21,7 +21,7 @@
                      <div class="row">
                         <div class="col-md-12">
                            <div class="our_img">
-                              <figure><img class="he_img" src="{{asset('assets/img/our_img5.jpg')}}" alt="#" style="position: contain; width: 100%; height=auto; "/></figure>
+                              <figure><img class="my_img" src="{{asset('assets/img/our_img5.jpg')}}" alt="#" style="position: contain; width: 100%; "/></figure>
                            <div class="our_text_box position_box">
                               <h3 class="awesome withi_color">Current Trending Blogs</h3>
                               <h4 style="color:aliceblue;">Welcome to most current trending blog</h4>
@@ -93,7 +93,7 @@
                               For example you’re pitching a book to a publication . You keep thinking to yourself:
                               “This is a long shot I don’t stand a chance .They’ll never accept an article from someone like me.”
                               Guess what happens ?<br><br>
-                              <a href="Manifest.blade.php" class="read-more">Read More</a> 
+                              <a href="Manifest" class="read-more">Read More</a> 
                            </p>
                               
                               <div class="post_box padding_bottom1">

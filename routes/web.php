@@ -17,6 +17,6 @@ Route::get('/', function () {
     return view('pages/index');
 });
 
-Route::get('/manifest', function () {
+Route::get('/Manifest', function () {
     return view('pages/Manifest');
 });

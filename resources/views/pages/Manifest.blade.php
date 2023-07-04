@@ -12,7 +12,7 @@
 
             <div class="our_text_box three_box">
                 <div class="post_box d_flex padding_top3">
-                    <h3 class="awesome padding_flot">Reprogram</h3>
+                    <h3 class="awesome padding_flot">Manifestation Manstra</h3>
                     <h4 class="flot_left1">Post By : Poet </h4>
                     <ul class="like padding_left2">
                         <li><a href="#"><img src="{{asset('/assets/img/like.png')}}" alt="#"/>Like</a></li>
